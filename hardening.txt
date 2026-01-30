@@ -1,1 +1,3 @@
 server hardening
+enable firewalld
+allow only required ports
